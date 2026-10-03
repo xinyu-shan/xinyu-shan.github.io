@@ -12,4 +12,4 @@ A lightweight academic homepage inspired by the simple one-column style common i
 Open `index.html` in any text editor and modify the text directly. Open `assets/style.css` to adjust fonts, spacing, colors, or layout.
 
 ## GitHub Pages
-Create a repository such as `shan0707.github.io`, upload these files to the repository root, and enable GitHub Pages if necessary.
+Create a repository such as `xinyu-shan.github.io`, upload these files to the repository root, and enable GitHub Pages if necessary.
